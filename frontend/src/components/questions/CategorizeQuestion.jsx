@@ -32,7 +32,7 @@ export default function CategorizeQuestion({ question, onUpdate }) {
       />
 
       <label className="block font-medium mt-2">Upload Image (optional)</label>
-      <ImageUpload onUploadComplete={(url) => setImageUrl(url)} />
+      <ImageUpload onUpload={(url) => setImageUrl(url)} />
       {imageUrl && <img src={`http://localhost:5000${imageUrl}`} alt="Question" className="w-40 h-auto mt-2" />}
 
       <div>
