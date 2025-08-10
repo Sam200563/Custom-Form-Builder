@@ -43,9 +43,9 @@ Users can create forms with header images and question images, preview them, and
 ### Features
 - Add/edit form title and header image (uploaded and stored locally).
 - Add questions of three types:
-  -Categorize: Drag and drop options into categories.
-  -Cloze: Fill-in-the-blanks with automatic blank creation.
-  -Comprehension: Paragraph with sub-questions.
+- Categorize: Drag and drop options into categories.
+-Cloze: Fill-in-the-blanks with automatic blank creation.
+-Comprehension: Paragraph with sub-questions.
 - Upload images for questions and form header.
 - Preview form before saving.
 - Submit responses to saved forms.
